@@ -10,7 +10,7 @@ import (
 	"github.com/coredns/coredns/plugin"
 	"github.com/coredns/coredns/plugin/pkg/upstream"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func init() { plugin.Register("template", setupTemplate) }

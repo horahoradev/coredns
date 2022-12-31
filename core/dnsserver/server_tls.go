@@ -11,7 +11,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/reuseport"
 	"github.com/coredns/coredns/plugin/pkg/transport"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // ServerTLS represents an instance of a TLS-over-DNS-server.

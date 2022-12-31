@@ -9,7 +9,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/nonwriter"
 	"github.com/coredns/coredns/plugin/pkg/response"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // minimalHandler implements the plugin.Handler interface.

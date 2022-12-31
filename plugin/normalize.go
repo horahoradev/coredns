@@ -11,7 +11,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/log"
 	"github.com/coredns/coredns/plugin/pkg/parse"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // See core/dnsserver/address.go - we should unify these two impls.

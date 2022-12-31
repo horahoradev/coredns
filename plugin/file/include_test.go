@@ -7,7 +7,7 @@ import (
 	"github.com/coredns/coredns/plugin/test"
 )
 
-// Make sure the external miekg/dns dependency is up to date
+// Make sure the external horahoradev/dns dependency is up to date
 
 func TestInclude(t *testing.T) {
 	name, rm, err := test.TempFile(".", "foo\tIN\tA\t127.0.0.1\n")

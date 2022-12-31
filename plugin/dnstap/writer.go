@@ -6,7 +6,7 @@ import (
 	"github.com/coredns/coredns/plugin/dnstap/msg"
 
 	tap "github.com/dnstap/golang-dnstap"
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // ResponseWriter captures the client response and logs the query to dnstap.

@@ -7,7 +7,7 @@ import (
 	"github.com/coredns/coredns/plugin/cache/freq"
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 type item struct {

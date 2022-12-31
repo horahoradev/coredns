@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestRewriteFailure(t *testing.T) {

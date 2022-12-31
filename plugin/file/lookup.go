@@ -9,7 +9,7 @@ import (
 	"github.com/coredns/coredns/plugin/metadata"
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Result is the result of a Lookup

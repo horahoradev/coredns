@@ -3,7 +3,7 @@ package dnsutil
 import (
 	"errors"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // TrimZone removes the zone component from q. It returns the trimmed

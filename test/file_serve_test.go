@@ -5,7 +5,7 @@ import (
 
 	"github.com/coredns/coredns/plugin/test"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestZoneEDNS0Lookup(t *testing.T) {

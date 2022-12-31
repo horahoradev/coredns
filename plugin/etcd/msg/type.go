@@ -3,7 +3,7 @@ package msg
 import (
 	"net"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // HostType returns the DNS type of what is encoded in the Service Host field. We're reusing

@@ -3,7 +3,7 @@ package dnstest
 import (
 	"testing"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 type responseWriter struct{ dns.ResponseWriter }

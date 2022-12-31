@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // MimeType is the DoH mimetype that should be used.

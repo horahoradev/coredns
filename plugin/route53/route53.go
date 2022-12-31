@@ -20,7 +20,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/route53"
 	"github.com/aws/aws-sdk-go/service/route53/route53iface"
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Route53 is a plugin that returns RR from AWS route53.

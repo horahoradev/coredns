@@ -12,7 +12,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/response"
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Logger is a basic request logging plugin.

@@ -13,7 +13,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/edns"
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // edns0LocalRule is a rewrite rule for EDNS0_LOCAL options.

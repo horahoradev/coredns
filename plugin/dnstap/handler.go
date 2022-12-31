@@ -8,7 +8,7 @@ import (
 	"github.com/coredns/coredns/plugin/dnstap/msg"
 
 	tap "github.com/dnstap/golang-dnstap"
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Dnstap is the dnstap handler.

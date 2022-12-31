@@ -10,8 +10,8 @@ import (
 	clog "github.com/coredns/coredns/plugin/pkg/log"
 	"github.com/coredns/coredns/request"
 
+	"github.com/horahoradev/dns"
 	"github.com/infobloxopen/go-trees/iptree"
-	"github.com/miekg/dns"
 )
 
 // ACL enforces access control policies on DNS queries.

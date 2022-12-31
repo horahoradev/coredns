@@ -1,7 +1,7 @@
 package sign
 
 import (
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func (p Pair) signRRs(rrs []dns.RR, signerName string, ttl, incep, expir uint32) (*dns.RRSIG, error) {

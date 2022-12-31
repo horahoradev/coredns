@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func setupProxyTargetCoreDNS(t *testing.T, fn func(string)) {

@@ -3,7 +3,7 @@ package dnsutil
 import (
 	"strings"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Join joins labels to form a fully qualified domain name. If the last label is

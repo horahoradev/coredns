@@ -5,7 +5,7 @@ import (
 
 	"github.com/coredns/coredns/plugin/pkg/reuseport"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // A Server is an DNS server listening on a system-chosen port on the local

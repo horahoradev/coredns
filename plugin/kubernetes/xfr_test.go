@@ -7,7 +7,7 @@ import (
 
 	"github.com/coredns/coredns/plugin/transfer"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestKubernetesTransferNonAuthZone(t *testing.T) {

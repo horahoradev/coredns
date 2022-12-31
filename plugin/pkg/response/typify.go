@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Type is the type of the message.

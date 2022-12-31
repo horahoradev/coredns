@@ -10,7 +10,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/transport"
 	"github.com/coredns/coredns/plugin/test"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestHealth(t *testing.T) {

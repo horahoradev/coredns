@@ -3,7 +3,7 @@ package test
 import (
 	"net"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // ResponseWriter is useful for writing tests. It uses some fixed values for the client. The

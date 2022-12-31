@@ -13,7 +13,7 @@
 // Heavily modified by Miek Gieben for use in DNS zones.
 package tree
 
-import "github.com/miekg/dns"
+import "github.com/horahoradev/dns"
 
 const (
 	td234 = iota

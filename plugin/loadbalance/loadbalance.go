@@ -2,7 +2,7 @@
 package loadbalance
 
 import (
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // RoundRobinResponseWriter is a response writer that shuffles A, AAAA and MX records.

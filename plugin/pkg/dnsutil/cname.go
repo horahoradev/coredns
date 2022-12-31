@@ -1,6 +1,6 @@
 package dnsutil
 
-import "github.com/miekg/dns"
+import "github.com/horahoradev/dns"
 
 // DuplicateCNAME returns true if r already exists in records.
 func DuplicateCNAME(r *dns.CNAME, records []dns.RR) bool {

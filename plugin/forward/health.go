@@ -7,7 +7,7 @@ import (
 
 	"github.com/coredns/coredns/plugin/pkg/transport"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // HealthChecker checks the upstream health.

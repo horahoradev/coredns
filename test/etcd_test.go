@@ -11,7 +11,7 @@ import (
 	"github.com/coredns/coredns/plugin/etcd"
 	"github.com/coredns/coredns/plugin/etcd/msg"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 	etcdcv3 "go.etcd.io/etcd/client/v3"
 )
 

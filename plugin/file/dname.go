@@ -3,7 +3,7 @@ package file
 import (
 	"github.com/coredns/coredns/plugin/pkg/dnsutil"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // substituteDNAME performs the DNAME substitution defined by RFC 6672,

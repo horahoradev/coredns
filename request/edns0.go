@@ -3,7 +3,7 @@ package request
 import (
 	"github.com/coredns/coredns/plugin/pkg/edns"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func supportedOptions(o []dns.EDNS0) []dns.EDNS0 {

@@ -9,7 +9,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/rcode"
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // ServeDNS implements the Handler interface.

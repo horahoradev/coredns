@@ -7,7 +7,7 @@ import (
 
 	"github.com/coredns/coredns/plugin/pkg/cache"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // hash serializes the RRset and returns a signature cache key.

@@ -43,7 +43,7 @@ yuxiaobo96.
 * plugin/cache: move goroutine closure to separate function to save memory (https://github.com/coredns/coredns/pull/3353)
 * plugin/clouddns: remove initialization from init (https://github.com/coredns/coredns/pull/3349)
 * plugin/erratic: doc and zone transfer (https://github.com/coredns/coredns/pull/3340)
-* plugin/file: fix panic in miekg/dns.CompareDomainName() (https://github.com/coredns/coredns/pull/3337)
+* plugin/file: fix panic in horahoradev/dns.CompareDomainName() (https://github.com/coredns/coredns/pull/3337)
 * plugin/forward: make Yield not block (https://github.com/coredns/coredns/pull/3336)
 * plugin/forward: Move map to array (https://github.com/coredns/coredns/pull/3339)
 * plugin/kubernetes: Measure and expose DNS programming latency from Kubernetes plugin. (https://github.com/coredns/coredns/pull/3171)

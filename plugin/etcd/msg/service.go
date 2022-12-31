@@ -5,7 +5,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Service defines a discoverable service in etcd. It is the rdata from a SRV

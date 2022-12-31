@@ -13,7 +13,7 @@ import (
 
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // limitTimeout is a utility function to auto-tune timeout values

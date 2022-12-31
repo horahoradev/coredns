@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 type sect int

@@ -9,7 +9,7 @@ import (
 
 	"github.com/antonmedv/expr"
 	"github.com/antonmedv/expr/vm"
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // View is a plugin that enables configuring expression based advanced routing

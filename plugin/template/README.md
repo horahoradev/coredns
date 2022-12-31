@@ -31,7 +31,7 @@ template CLASS TYPE [ZONE...] {
   built by a [Go template](https://golang.org/pkg/text/template/) that contains the reply. Specifying no answer will result
   in a response with an empty answer section.
 * `rcode` **CODE** A response code (`NXDOMAIN, SERVFAIL, ...`). The default is `NOERROR`. Valid response code values are
-  per the `RcodeToString` map defined by the `miekg/dns` package in `msg.go`.
+  per the `RcodeToString` map defined by the `horahoradev/dns` package in `msg.go`.
 * `ederror` **EXTENDED_ERROR_CODE** is an extended DNS error code as a number defined in `RFC8914` (0, 1, 2,..., 24).
               **EXTRA_REASON** is an additional string explaining the reason for returning the error.
 * `fallthrough` Continue with the next _template_ instance if the _template_'s **ZONE** matches a query name but no regex match.

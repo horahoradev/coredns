@@ -5,7 +5,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // a persistConn hold the dns.Conn and the last used time.

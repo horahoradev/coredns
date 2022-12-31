@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // TransferIn retrieves the zone from the masters, parses it and sets it live.

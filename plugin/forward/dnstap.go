@@ -9,7 +9,7 @@ import (
 	"github.com/coredns/coredns/request"
 
 	tap "github.com/dnstap/golang-dnstap"
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // toDnstap will send the forward and received message to the dnstap plugin.

@@ -11,7 +11,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/singleflight"
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Dnssec signs the reply on-the-fly.

@@ -4,7 +4,7 @@ package dnstest
 import (
 	"time"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Recorder is a type of ResponseWriter that captures

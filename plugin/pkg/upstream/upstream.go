@@ -9,7 +9,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/nonwriter"
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Upstream is used to resolve CNAME or other external targets via CoreDNS itself.

@@ -1,7 +1,7 @@
 package tree
 
 import (
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // AuthWalk performs fn on all authoritative values stored in the tree in

@@ -13,7 +13,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/transport"
 
 	"github.com/grpc-ecosystem/grpc-opentracing/go/otgrpc"
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 	"github.com/opentracing/opentracing-go"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/peer"

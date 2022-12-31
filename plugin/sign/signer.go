@@ -11,7 +11,7 @@ import (
 	"github.com/coredns/coredns/plugin/file/tree"
 	clog "github.com/coredns/coredns/plugin/pkg/log"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 var log = clog.NewWithPlugin("sign")

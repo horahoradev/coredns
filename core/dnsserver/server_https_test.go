@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 var (

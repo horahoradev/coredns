@@ -5,7 +5,7 @@ import (
 
 	"github.com/coredns/coredns/plugin/pkg/rcode"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Notify will send notifies to all configured to hosts IP addresses. If the zone isn't known

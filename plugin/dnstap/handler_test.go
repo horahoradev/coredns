@@ -9,7 +9,7 @@ import (
 	test "github.com/coredns/coredns/plugin/test"
 
 	tap "github.com/dnstap/golang-dnstap"
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func testCase(t *testing.T, tapq, tapr *tap.Message, q, r *dns.Msg) {

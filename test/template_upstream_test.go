@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestTemplateUpstream(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 
 	"github.com/coredns/coredns/plugin"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // RoundRobin is a plugin to rewrite responses for "load balancing".

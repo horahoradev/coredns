@@ -3,7 +3,7 @@ package file
 import (
 	"github.com/coredns/coredns/plugin/file/tree"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // ClosestEncloser returns the closest encloser for qname.

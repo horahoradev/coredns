@@ -9,7 +9,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/replacer"
 	"github.com/coredns/coredns/plugin/pkg/response"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func init() { plugin.Register("log", setup) }

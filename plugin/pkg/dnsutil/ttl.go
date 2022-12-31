@@ -5,7 +5,7 @@ import (
 
 	"github.com/coredns/coredns/plugin/pkg/response"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // MinimalTTL scans the message returns the lowest TTL found taking into the response.Type of the message.

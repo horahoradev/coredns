@@ -11,7 +11,7 @@ import (
 
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 	"golang.org/x/crypto/ed25519"
 )
 

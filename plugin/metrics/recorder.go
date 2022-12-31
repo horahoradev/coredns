@@ -5,7 +5,7 @@ import (
 
 	"github.com/coredns/coredns/plugin/pkg/dnstest"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Recorder is a dnstest.Recorder specific to the metrics plugin.

@@ -6,7 +6,7 @@ import (
 
 	"github.com/coredns/coredns/plugin/test"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestView(t *testing.T) {

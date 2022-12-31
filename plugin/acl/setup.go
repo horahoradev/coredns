@@ -8,8 +8,8 @@ import (
 	"github.com/coredns/coredns/core/dnsserver"
 	"github.com/coredns/coredns/plugin"
 
+	"github.com/horahoradev/dns"
 	"github.com/infobloxopen/go-trees/iptree"
-	"github.com/miekg/dns"
 )
 
 const pluginName = "acl"

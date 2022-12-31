@@ -8,7 +8,7 @@ import (
 
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // typeRule is a type rewrite rule.

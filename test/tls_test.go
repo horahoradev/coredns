@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestTLS(t *testing.T) {

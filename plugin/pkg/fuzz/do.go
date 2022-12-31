@@ -7,7 +7,7 @@ import (
 	"github.com/coredns/coredns/plugin"
 	"github.com/coredns/coredns/plugin/test"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Do will fuzz p - used by gofuzz. See Makefile.fuzz for comments and context.

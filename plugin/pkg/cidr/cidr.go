@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/apparentlymart/go-cidr/cidr"
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Split returns a slice of non-overlapping subnets that in union equal the subnet n,

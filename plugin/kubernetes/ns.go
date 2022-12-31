@@ -4,7 +4,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func isDefaultNS(name, zone string) bool {

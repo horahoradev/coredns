@@ -1,6 +1,6 @@
 package dnssec
 
-import "github.com/miekg/dns"
+import "github.com/horahoradev/dns"
 
 // newRRSIG returns a new RRSIG, with all fields filled out, except the signed data.
 func (k *DNSKEY) newRRSIG(signerName string, ttl, incep, expir uint32) *dns.RRSIG {

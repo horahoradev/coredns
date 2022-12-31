@@ -5,7 +5,7 @@ import (
 
 	mtest "github.com/coredns/coredns/plugin/test"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Using miek.nl here because this is the easiest zone to get access to and its masters

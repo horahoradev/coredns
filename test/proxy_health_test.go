@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestProxyThreeWay(t *testing.T) {

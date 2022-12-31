@@ -8,7 +8,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/dnsutil"
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func (e *External) a(ctx context.Context, services []msg.Service, state request.Request) (records []dns.RR, truncated bool) {

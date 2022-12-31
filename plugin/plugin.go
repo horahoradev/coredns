@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 	ot "github.com/opentracing/opentracing-go"
 	"github.com/prometheus/client_golang/prometheus"
 )

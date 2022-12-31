@@ -4,7 +4,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestCompressScrub(t *testing.T) {

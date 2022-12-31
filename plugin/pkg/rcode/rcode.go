@@ -3,7 +3,7 @@ package rcode
 import (
 	"strconv"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // ToString convert the rcode to the official DNS string, or to "RCODE"+value if the RCODE value is unknown.

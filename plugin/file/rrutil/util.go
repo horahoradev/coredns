@@ -1,7 +1,7 @@
 // Package rrutil provides function to find certain RRs in slices.
 package rrutil
 
-import "github.com/miekg/dns"
+import "github.com/horahoradev/dns"
 
 // SubTypeSignature returns the RRSIG for the subtype.
 func SubTypeSignature(rrs []dns.RR, subtype uint16) []dns.RR {

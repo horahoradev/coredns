@@ -6,7 +6,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/dnstest"
 	"github.com/coredns/coredns/plugin/pkg/fuzz"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 var f *Forward

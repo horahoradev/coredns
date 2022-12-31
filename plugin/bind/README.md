@@ -110,4 +110,4 @@ bad.example.com {
 ```
 
 Also on MacOS there is an (open) bug where this doesn't work properly. See
-<https://github.com/miekg/dns/issues/724> for details, but no solution.
+<https://github.com/horahoradev/dns/issues/724> for details, but no solution.

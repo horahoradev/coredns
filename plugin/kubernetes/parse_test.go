@@ -5,7 +5,7 @@ import (
 
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestParseRequest(t *testing.T) {

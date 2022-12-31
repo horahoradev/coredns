@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestTrimZone(t *testing.T) {

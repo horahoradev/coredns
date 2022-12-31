@@ -7,7 +7,7 @@ import (
 	"github.com/coredns/coredns/plugin/pkg/response"
 	"github.com/coredns/coredns/plugin/test"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // See https://github.com/kubernetes/dns/issues/121, add some specific tests for those use cases.

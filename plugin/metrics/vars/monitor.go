@@ -1,7 +1,7 @@
 package vars
 
 import (
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 var monitorType = map[uint16]struct{}{

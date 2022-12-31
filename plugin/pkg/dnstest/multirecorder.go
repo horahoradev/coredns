@@ -3,7 +3,7 @@ package dnstest
 import (
 	"time"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // MultiRecorder is a type of ResponseWriter that captures all messages written to it.

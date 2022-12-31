@@ -5,7 +5,7 @@ import (
 
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // isNotify checks if state is a notify message and if so, will *also* check if it

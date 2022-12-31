@@ -7,7 +7,7 @@ import (
 
 	"github.com/coredns/coredns/plugin/file"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Walk will recursively walk of the file under l.directory and adds the one that match l.re.

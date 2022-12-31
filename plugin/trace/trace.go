@@ -19,7 +19,7 @@ import (
 	_ "github.com/coredns/coredns/plugin/pkg/trace" // Plugin the trace package.
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 	ot "github.com/opentracing/opentracing-go"
 	otext "github.com/opentracing/opentracing-go/ext"
 	otlog "github.com/opentracing/opentracing-go/log"

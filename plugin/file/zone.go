@@ -10,7 +10,7 @@ import (
 	"github.com/coredns/coredns/plugin/file/tree"
 	"github.com/coredns/coredns/plugin/pkg/upstream"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Zone is a structure that contains all data related to a DNS zone.

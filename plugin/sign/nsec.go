@@ -6,7 +6,7 @@ import (
 	"github.com/coredns/coredns/plugin/file"
 	"github.com/coredns/coredns/plugin/file/tree"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // names returns the elements of the zone in nsec order.

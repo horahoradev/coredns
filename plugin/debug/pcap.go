@@ -6,7 +6,7 @@ import (
 
 	"github.com/coredns/coredns/plugin/pkg/log"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Hexdump converts the dns message m to a hex dump Wireshark can import.

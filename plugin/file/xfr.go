@@ -4,7 +4,7 @@ import (
 	"github.com/coredns/coredns/plugin/file/tree"
 	"github.com/coredns/coredns/plugin/transfer"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Transfer implements the transfer.Transfer interface.

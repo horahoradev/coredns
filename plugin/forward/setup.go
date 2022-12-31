@@ -15,7 +15,7 @@ import (
 	pkgtls "github.com/coredns/coredns/plugin/pkg/tls"
 	"github.com/coredns/coredns/plugin/pkg/transport"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func init() { plugin.Register("forward", setup) }

@@ -1,6 +1,6 @@
 package request
 
-import "github.com/miekg/dns"
+import "github.com/horahoradev/dns"
 
 // ScrubWriter will, when writing the message, call scrub to make it fit the client's buffer.
 type ScrubWriter struct {

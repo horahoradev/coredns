@@ -1,6 +1,6 @@
 package tree
 
-import "github.com/miekg/dns"
+import "github.com/horahoradev/dns"
 
 // Elem is an element in the tree.
 type Elem struct {

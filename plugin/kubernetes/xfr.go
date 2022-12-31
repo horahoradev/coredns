@@ -12,7 +12,7 @@ import (
 	"github.com/coredns/coredns/plugin/transfer"
 	"github.com/coredns/coredns/request"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 	api "k8s.io/api/core/v1"
 )
 

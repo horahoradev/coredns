@@ -3,7 +3,7 @@ package tree
 import (
 	"bytes"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // less returns <0 when a is less than b, 0 when they are equal and

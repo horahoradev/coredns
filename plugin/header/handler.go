@@ -5,7 +5,7 @@ import (
 
 	"github.com/coredns/coredns/plugin"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // Header modifies flags of dns.MsgHdr in queries and / or responses

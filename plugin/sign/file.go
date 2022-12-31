@@ -9,7 +9,7 @@ import (
 	"github.com/coredns/coredns/plugin/file"
 	"github.com/coredns/coredns/plugin/file/tree"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 // write writes out the zone file to a temporary file which is then moved into the correct place.

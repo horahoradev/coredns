@@ -7,7 +7,7 @@ import (
 
 	"github.com/coredns/coredns/pb"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 )

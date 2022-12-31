@@ -7,7 +7,7 @@ import (
 	"github.com/coredns/caddy"
 	_ "github.com/coredns/coredns/coremain"
 
-	"github.com/miekg/dns"
+	"github.com/horahoradev/dns"
 )
 
 func TestChaos(t *testing.T) {
